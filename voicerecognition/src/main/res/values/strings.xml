@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceRecognition</string>
+    <string name="title_activity_jarvis_voice_listern">JarvisVoiceListern</string>
+</resources>
